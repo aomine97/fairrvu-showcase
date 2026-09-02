@@ -2,7 +2,7 @@
 
 **AI-powered physician contract analysis — built and shipped solo.**
 
-🔗 **Live:** [MY-DOMAIN] &nbsp;|&nbsp; **Status: Live product with paying customers**
+🔗 **Live:** [fairrvu.com](https://fairrvu.com) &nbsp;|&nbsp; **Status: Live product with paying customers**
 
 ---
 
