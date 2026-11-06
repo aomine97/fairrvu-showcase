@@ -4,6 +4,8 @@
 
 **Status:** Earlier project, no longer live.
 
+![FairRVU](images/fairrvu-card.svg)
+
 ---
 
 ## What It Does
@@ -40,18 +42,6 @@ Built entirely solo from zero to paying customers:
 - **SEO content system** — 31 specialty-specific pages auto-rendered from JSON, each with Article + FAQPage schema, dynamic branded OG images, and internal cross-linking
 - **Free calculator** — wRVU income gap calculator with GA4 funnel tracking (calculator → upload → checkout → purchase)
 - **GA4 conversion tracking** — 5 custom events wired across the full funnel
-
----
-
-## Screenshots
-
-> Add screenshots to `/screenshots/` — homepage, calculator, upload flow, sample report.
-
-<!-- Uncomment once screenshots are added:
-![Homepage](screenshots/homepage.png)
-![Calculator](screenshots/calculator.png)
-![Report](screenshots/report.png)
--->
 
 ---
 
