@@ -16,12 +16,6 @@ One-time payment ($99 / $179 / $249). Contract deleted immediately after process
 
 ---
 
-## Results
-
-While live: **23 paying customers** and **60 contracts analyzed**, with no paid ads.
-
----
-
 ## Stack
 
 | Layer | Technology |
@@ -51,10 +45,7 @@ Built entirely solo from zero to paying customers:
 
 ---
 
-## Architecture
-
-![FairRVU architecture](images/architecture.svg)
-
+## Architecture Notes
 
 - PDF generation runs as a Netlify background function (async, 15-min timeout) to avoid serverless cold-start limits with Chromium
 - Contract PDFs are deleted immediately after text extraction — never stored
