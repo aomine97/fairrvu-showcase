@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0 0L10 5L0 10z" fill="#64748b"/>
+  </marker>
+</defs>
+<rect width="1200" height="460" rx="18" fill="#0b1220"/>
+<rect x="40" y="34" width="10" height="10" rx="2" fill="#8fb4ff"/>
+<text x="60" y="44" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e2e8f0" letter-spacing="0.5">FAIRRVU  ·  ARCHITECTURE</text>
+<rect x="40" y="90" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="40" y="90" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="58" y="120" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Upload</text>
+<text x="58" y="144" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">physician uploads</text>
+<text x="58" y="164" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">an employment contract PDF</text>
+<rect x="340" y="90" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="340" y="90" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="358" y="120" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Text extraction</text>
+<text x="358" y="144" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">PDF deleted right after</text>
+<text x="358" y="164" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">extraction, never stored</text>
+<rect x="640" y="90" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="640" y="90" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="658" y="120" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Claude API</text>
+<text x="658" y="144" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">pulls structured terms</text>
+<text x="658" y="164" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">from unstructured contracts</text>
+<rect x="940" y="90" width="220" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="940" y="90" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="958" y="120" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">MGMA benchmarks</text>
+<text x="958" y="144" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">41 specialties</text>
+<text x="958" y="164" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">pay, wRVU, call</text>
+<rect x="40" y="290" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="40" y="290" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="58" y="320" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Stripe checkout</text>
+<text x="58" y="344" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">one-time payment</text>
+<text x="58" y="364" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">$99 / $179 / $249</text>
+<rect x="340" y="290" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="340" y="290" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="358" y="320" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Webhook</text>
+<text x="358" y="344" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">idempotency keys stop</text>
+<text x="358" y="364" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">duplicate fulfillment</text>
+<rect x="640" y="290" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="640" y="290" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="658" y="320" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Background function</text>
+<text x="658" y="344" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">Puppeteer + Chromium on</text>
+<text x="658" y="364" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">Netlify, 15-minute budget</text>
+<rect x="940" y="290" width="220" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="940" y="290" width="4" height="120" rx="2" fill="#8fb4ff"/>
+<text x="958" y="320" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">8-page report</text>
+<text x="958" y="344" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">PDF emailed</text>
+<text x="958" y="364" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">to the physician</text>
+<line x1="290" y1="150" x2="338" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="590" y1="150" x2="638" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="890" y1="150" x2="938" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="165" y1="210" x2="165" y2="288" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<text x="190" y="255" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#cbd5e1">pay</text>
+<line x1="290" y1="350" x2="338" y2="350" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="590" y1="350" x2="638" y2="350" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="890" y1="350" x2="938" y2="350" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+</svg>
